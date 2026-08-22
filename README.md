@@ -1,3 +1,5 @@
+## NAME: MOHAMMED SAFI F
+## REG NO: 212224060156
 # EXP 3B: IIR-CHEBYSHEV-FITER-DESIGN
 
 ## AIM: 
@@ -299,13 +301,20 @@ xgrid();
 ```
 ## OUTPUT (LPF) : 
 
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/61bd9bda-9946-4a1e-9a1f-94d884a7c595" />
 
 ## OUTPUT (HPF) : 
 
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/3711f0f4-4590-435c-8863-fcb9dc7edf26" />
+
 ## OUTPUT (BPF) : 
 
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/6f2bb3a0-1e89-47c6-8272-078f8898fe43" />
 
 ## OUTPUT (BSF) : 
 
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/f010b671-bc6b-40a9-aa27-443468e6fd2b" />
 
 ## RESULT: 
+
+Thus, the IIR Chebyshev Low Pass Filter (LPF), High Pass Filter (HPF), Band Pass Filter (BPF) and Band Stop Filter (BSF) were plotted and output was verified.
